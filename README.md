@@ -22,3 +22,25 @@
 ```
 git clone https://github.com/dodouuu/RestaurantList.git
 ```
+2. 進入 repository 
+```
+cd RestaurantList
+```
+3. 安裝套件
+```
+npm i express@4.16.4
+```
+4. 執行
+```
+npm run dev
+```
+5. 確認 Terminal 顯示
+```
+[nodemon] 2.0.16
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+Express is listening on localhost: 3000
+```
+代表啟動成功，打開瀏覽器，在網址列輸入http://localhost:3000
