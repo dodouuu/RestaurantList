@@ -16,3 +16,9 @@
     4. 描述
     5. 圖片
 3. 可以搜尋【名稱】或者【類別】來找到特定餐廳
+---
+安裝
+1. 從 Terminal (command line interface) 移動到想存放專案的位置，執行：
+```
+git clone https://github.com/dodouuu/RestaurantList.git
+```
