@@ -44,3 +44,10 @@ npm run dev
 Express is listening on localhost: 3000
 ```
 代表啟動成功，打開瀏覽器，在網址列輸入http://localhost:3000
+  
+  ---
+注意：如果本機執行環境為 macOS
+請記得在【.gitignore】檔案加一行
+```
+.DS_store
+```
