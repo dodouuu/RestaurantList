@@ -1,10 +1,9 @@
 # Express app - Restaurant List
----
 打造一個網站來收集另一種愛好：餐廳
 > Bread is the staff of life.
-
-## 功能列表
 ---
+## 功能列表
+
 1. 在首頁瀏覽餐廳資料，包含：
     1. 餐廳照片
     2. 餐廳名稱
